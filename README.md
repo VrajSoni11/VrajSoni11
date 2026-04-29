@@ -29,12 +29,12 @@ Node.js · Express · Django · REST APIs · GraphQL
 
 **Databases & Data**
 ```
-MongoDB · PostgreSQL · MySQL · Firebase
+MongoDB · PostgreSQL · MySQL 
 ```
 
 **Tools & Platforms**
 ```
-Git · Docker · GitHub · VS Code · Postman · Linux
+Git  · GitHub · VS Code · Postman 
 ```
 
 **Cloud & DevOps**
