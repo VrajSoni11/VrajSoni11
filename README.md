@@ -47,7 +47,7 @@ AWS · Vercel · Netlify · Docker Compose
 ## Connect
 
 - Email: svraj1116@gmail.com
-- LinkedIn: [linkedin.com/in/vrajsoni](https://linkedin.com/in/vrajsoni)
+- LinkedIn: [linkedin.com/in/vrajsoni](https://www.linkedin.com/in/vraj-soni-912ab1284/)
 - GitHub: [github.com/VrajSoni11](https://github.com/VrajSoni11)
 
 ---
