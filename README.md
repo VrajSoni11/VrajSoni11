@@ -6,7 +6,7 @@ Tech Enthusiast passionate about building scalable solutions and exploring emerg
 
 ## About
 
-I am a technology enthusiast with a focus on modern development practices and software architecture. I enjoy working on projects that combine elegant design with robust functionality, and I am committed to staying current with industry trends and best practices. My interests span across full-stack development, cloud technologies, and open-source contributions.
+I am a technology enthusiast with a focus on modern development practices and software architecture. I enjoy working on projects that combine elegant design with robust functionality, and I am committed to staying current with industry trends and best practices. My interests span across full-stack development, Artificial Intelligence, Machine Learning, Robotics, Data Science and open-source contributions.
 
 ---
 
@@ -19,12 +19,12 @@ JavaScript · Python · Java · TypeScript · SQL · HTML · CSS
 
 **Frontend Development**
 ```
-React · Next.js · Vue.js · Tailwind CSS · Bootstrap
+React · Next.js · Tailwind CSS 
 ```
 
 **Backend Development**
 ```
-Node.js · Express · Django · REST APIs · GraphQL
+Node.js · Express · Django · REST APIs
 ```
 
 **Databases & Data**
