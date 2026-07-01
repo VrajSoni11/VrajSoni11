@@ -51,7 +51,12 @@ I care about shipping things that actually work under real constraints — not j
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
-*YOLO · Object Detection · Real-Time Tracking · Generative AI · Prompt Engineering · LLM Applications*
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
+![Object Detection](https://img.shields.io/badge/Object%20Detection-5C3EE8?style=flat-square)
+![Real--Time Tracking](https://img.shields.io/badge/Real--Time%20Tracking-5C3EE8?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-412991?style=flat-square)
 
 **Web & Backend**
 
@@ -60,16 +65,26 @@ I care about shipping things that actually work under real constraints — not j
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
-*REST APIs · OAuth2 / OpenID Connect · Microsoft Graph API · Azure MSSQL · CSRF Protection · Cookie-Based Auth*
+![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=auth0&logoColor=white)
+![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-F78C40?style=flat-square&logo=openid&logoColor=white)
+![Microsoft Graph API](https://img.shields.io/badge/Microsoft%20Graph%20API-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure MSSQL](https://img.shields.io/badge/Azure%20MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![CSRF Protection](https://img.shields.io/badge/CSRF%20Protection-02569B?style=flat-square)
+![Cookie--Based Auth](https://img.shields.io/badge/Cookie--Based%20Auth-02569B?style=flat-square)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square)
 
 ---
 
